@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
 	o=1./2.+pow(sin(y),2);
 	e=(1+(pow(z,2)/(3-(pow(z,2)/5))));
 
-	s=lul/lol*lel;
+	s=l/o*e;
 
 	printf("%f", s);
 	printf("\n");
